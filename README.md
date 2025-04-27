@@ -1,4 +1,6 @@
 # Домашнее задание к лекции «Регулярные выражения»
+[![Build status](https://ci.appveyor.com/api/projects/status/fsj8danoc034td8f?svg=true)](https://ci.appveyor.com/project/Starina-Lokich/regex)
+
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
